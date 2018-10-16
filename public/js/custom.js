@@ -2,7 +2,7 @@
 const configs = {}
 	
 	//steem configs
-	configs.steem_account = "adom";
+	configs.steem_account = "inst";
 	configs.steem_api = "https://api.steemit.com";
 	configs.steem_app = "https://steemit.com/";
 	//configs.steem_app = "https://busy.org/"; //to use busy.org

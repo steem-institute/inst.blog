@@ -1,5 +1,5 @@
 {
-  "name": "one-pager",
+  "name": "inst",
   "version": "1.0.0",
   "description": "one pager adom site\u001b[D\u001b[D\u001b[D\u001b[Dstatic site",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/adom-site/one-pager.git"
+    "url": "git+ssh://git@github.com/steeminstitute/inst.blog.git"
   },
   "keywords": [
     "steem",
@@ -18,7 +18,7 @@
   "author": "dzivenu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adom-site/one-pager/issues"
+    "url": "https://github.com/steeminstitute/inst.blog/issues"
   },
-  "homepage": "https://github.com/adom-site/one-pager#readme"
+  "homepage": "https://github.com/steeminstitute/inst.blog#readme"
 }
